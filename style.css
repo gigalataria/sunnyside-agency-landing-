@@ -1,0 +1,72 @@
+body {
+  height: 100vh;
+}
+
+.top-div {
+  display: flex;
+  justify-content: space-between;
+}
+.main-top {
+  background-image: url("images/desktop/image-header.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  background-repeat: no-repeat;
+}
+.arrow {
+  width: 20px;
+  margin-bottom: -140px;
+}
+
+.div-1 {
+  display: flex;
+  gap: 20px;
+  color: white;
+}
+
+.orange-div {
+  text-align: center;
+  color: white;
+}
+
+.b-1 {
+  margin: 10px;
+  border-radius: 20px;
+  height: 40px;
+  width: 80px;
+  border: none;
+}
+
+.top-div h1 {
+  margin: 10px;
+  color: white;
+}
+
+.text-container {
+  display: flex;
+}
+
+.egg {
+  width: 50%;
+}
+
+.text-cont {
+  padding: 70px;
+}
+
+.h-1 {
+  text-decoration: underline yellow;
+}
+
+.glass {
+  display: flex;
+}
+
+.div-3 {
+  width: 50%;
+  min-width: 50%;
+}
+
+.div-3 img {
+  width: 100%;
+}
